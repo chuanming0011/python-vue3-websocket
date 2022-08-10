@@ -1,5 +1,5 @@
 # python-vue3-websocket
-python websockets vue3 websocket
+python websockets vue3 websocket 简单的实现聊天功能
 
 
 # websocket-object
